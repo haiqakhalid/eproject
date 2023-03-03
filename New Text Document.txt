@@ -1,0 +1,4 @@
+repository name : eproject
+branch : main
+remote : origin
+version : eproject1.0
