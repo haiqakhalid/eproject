@@ -2,3 +2,8 @@ repository name : eproject
 branch : main
 remote : origin
 version : eproject1.0
+
+repository name : eproject
+branch : main2
+remote : origin
+version : eproject2.0
